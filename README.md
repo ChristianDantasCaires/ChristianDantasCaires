@@ -2,8 +2,8 @@
 
 <div align="center" >
   <a href="https://github.com/ChristianDantasCaires">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ChristianDantasCaires&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianDantasCaires&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?user=ChristianDantasCaires&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=ChristianDantasCaires&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <h1 align="center">Tecnologias que eu utilizo</h1>
