@@ -1,11 +1,4 @@
 <h1 align="center">Prazer meu nome é Christian Dantas! 👋</h1>
-
-<div align="center" >
-  <a href="https://github.com/ChristianDantasCaires">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?user=ChristianDantasCaires&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=ChristianDantasCaires&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
   <h1 align="center">Tecnologias que eu utilizo</h1>
 <div align="center" style="display: inline-block"><br/>
   <img align="center" alt="img" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
