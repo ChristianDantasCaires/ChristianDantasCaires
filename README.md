@@ -1,7 +1,8 @@
 
 <div align="center" style="display: inline-block">
+      <h1>Hey, I'm Christian</h1>
+
    <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChristianDantasCaires&theme=react&line_height=40&hide=css"/></a>
-   <h1>Hey, I'm Christian</h1>
     <hr></hr>
   <p align="center">Some of the technologies I use 🤖</p>
   <div align="center" style="display: flex">
