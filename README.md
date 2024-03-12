@@ -22,8 +22,6 @@
     <a href="https://www.linkedin.com/in/christiandantascaires/" target="_blank">
                <img align="center" alt="img" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a>
-      <img align="center" alt="img" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=christiandc99@gmail.com&logoColor=white"/>
-
    </div>
    
    
