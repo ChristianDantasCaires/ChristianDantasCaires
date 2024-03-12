@@ -1,9 +1,6 @@
 
 <div align="center" style="display: inline-block">
-      <h1>Hey, I'm Christian  <a href="https://www.linkedin.com/in/christiandantascaires/" target="_blank">
-               <img align="center" alt="img" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a></h1>
-     
+      <h2>Hey! I'm Christian, a software developer</h2>
 
    <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChristianDantasCaires&theme=react&line_height=40&hide=css"/></a>
     <hr></hr>
@@ -18,4 +15,16 @@
      <img align="center" alt="img" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
      <img align="center" alt="img" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
    </div>
+
+   <hr></hr>
+  <p align="center">Reach Me Out 🔎</p>
+  <div align="center" style="display: flex">
+    <a href="https://www.linkedin.com/in/christiandantascaires/" target="_blank">
+               <img align="center" alt="img" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
+      <img align="center" alt="img" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=christiandc99@gmail.com&logoColor=white"/>
+
+   </div>
+   
+   
 </div>  
