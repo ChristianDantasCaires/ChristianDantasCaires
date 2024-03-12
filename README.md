@@ -1,6 +1,11 @@
 
 <div align="center" style="display: inline-block">
       <h1>Hey, I'm Christian</h1>
+      <div align="center" style="display: flex">
+            <a href="https://www.linkedin.com/in/christiandantascaires/">
+               <img align="center" alt="img" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            </a>
+      </div>
 
    <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChristianDantasCaires&theme=react&line_height=40&hide=css"/></a>
     <hr></hr>
@@ -15,5 +20,4 @@
      <img align="center" alt="img" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
      <img align="center" alt="img" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
    </div>
-   <div><a href="https://www.linkedin.com/in/christiandantascaires/" target="_blank">My Linkedin</a></div>
 </div>  
