@@ -1,7 +1,7 @@
 
 <div align="center" style="display: inline-block">
-      <h2>Hey! I'm Christian, a software developer</h2>
-      <a href="https://christiandev.com.br">My website</a>
+      <h2>Hey! I'm Christian, a software developer!       <a href="https://christiandev.com.br">My website</a>
+</h2>
    <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChristianDantasCaires&theme=react&line_height=40&hide=css"/></a>
     <hr></hr>
   <p align="center">Some of the technologies I use 🤖</p>
