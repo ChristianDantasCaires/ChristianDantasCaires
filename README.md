@@ -1,6 +1,6 @@
 
 <div align="center" style="display: inline-block">
-      <h2>Hey! I'm Christian, a software developer!       <a href="https://christiandev.com.br" target="_blank">My website</a>
+      <h2>Hey! I'm Christian, a software developer!      
 </h2>
    <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChristianDantasCaires&theme=react&line_height=40&hide=css"/></a>
     <hr></hr>
@@ -19,9 +19,9 @@
    <hr></hr>
   <p align="center">Reach Me Out 🔎</p>
   <div align="center" style="display: flex">
-   /* <a href="https://www.linkedin.com/in/christiandantascaires/" target="_blank">
+    <a href="https://www.linkedin.com/in/christiandantascaires/" target="_blank">
                <img align="center" alt="img" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a> */
+            </a> 
    </div>
    
    
