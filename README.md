@@ -2,8 +2,12 @@
 <div align="center" style="display: inline-block">
       <h2>Hey! I'm Christian, a software developer!      
 </h2>
-  /* <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChristianDantasCaires&theme=react&line_height=40&hide=css"/></a>
-    <hr></hr> */
+      <!--
+
+  <a href="#"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChristianDantasCaires&theme=react&line_height=40&hide=css"/></a>
+    <hr></hr> 
+    //-->
+
   <p align="center">Some of the technologies I use 🤖</p>
   <div align="center" style="display: flex">
      <img align="center" alt="img" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
