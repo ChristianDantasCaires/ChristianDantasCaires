@@ -19,9 +19,9 @@
    <hr></hr>
   <p align="center">Reach Me Out 🔎</p>
   <div align="center" style="display: flex">
-    <a href="https://www.linkedin.com/in/christiandantascaires/" target="_blank">
+   /* <a href="https://www.linkedin.com/in/christiandantascaires/" target="_blank">
                <img align="center" alt="img" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
+            </a> */
    </div>
    
    
